@@ -1,0 +1,45 @@
+html,body{
+    background-color: #85dcb8;
+}
+.hilight:hover{
+    background-color: #c38d9e;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.nav-item{
+    font-size: x-large;
+    font-family: cursive;
+}
+.brand{
+    font-size: x-large;
+    font-weight: bold;
+}
+.fa {
+    padding: 20px;
+    font-size: 100px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    color: black;
+  }
+  .fa:hover {
+      opacity: 0.5;
+      text-decoration: none;
+  }
+.contact{
+    display: table;
+  margin: 0 auto;
+}
+.text{
+    margin-left: 2%;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.b1{
+    color: black;
+}
+.b2{
+    color: #3282b8;;
+}
