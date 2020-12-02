@@ -2,14 +2,11 @@ html,body{
     background-color: #85dcb8;
 }
 .navbar-brand{
+    font-weight: bold;
     font-family:'sofia';
 }
 .nav-item{
     font-family: cursive;
-}
-.brand{
-    font-weight: bold;
-    font-family: 'sofia';
 }
 .fa {
     padding: 20px;
@@ -41,28 +38,3 @@ html,body{
 .b2{
     color: #3282b8;;
 }
-@media screen and (min-width: 1024px){
-    .brand{
-        font-size: x-large;
-    }
-    .hilight:hover{
-        font-size: x-large;
-    }
-    .nav-item{
-        font-size: x-large;
-    }
-
-    }
-    
-    /*###Tablet(medium)###*/
-    @media screen and (min-width : 768px) and (max-width : 1023px){
-        .brand{
-            font-size: large;
-        }
-        .hilight:hover{
-            font-size: large;
-        }
-        .nav-item{
-            font-size: large;
-        }
-    }
