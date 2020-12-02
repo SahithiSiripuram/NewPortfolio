@@ -13,6 +13,7 @@ html,body{
 .brand{
     font-size: x-large;
     font-weight: bold;
+    font-family: 'sofia';
 }
 .fa {
     padding: 20px;
