@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Sahithi Siripuram
+        </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="/index.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="icon" href="https://www.jumpstarttech.com/files/2018/08/Network-Profile.png" sizes="any" type="image/svg+xml">
+    </head>
+    <body>
+        <div class="b b2">
+            <header>
+                <h1>Sahithi Siripuram</h1>
+            </header>
+            <img class="dp" src="/photo6113856611685608130.jpg">
+            <h3>Contact me</h3>
+            <a href="tel:+91 9704909222" class="fa fa-whatsapp"></a>
+            <a href="mailto:sahithisiripuram1001@gmail.com" class="fa fa-at"></a>
+            <a href="https://www.linkedin.com/in/sahithi-siripuram/" class="fa fa-linkedin"></a>
+            <a href="https://github.com/SahithiSiripuram" class="fa fa-github"></a>
+        </div>
+        <div class="b">
+        <h2 class="head">About Me</h2>
+            <p>This is a dummy blog, I shall document my journey here.</p>
+        </div>
+    </body>
+</html>
