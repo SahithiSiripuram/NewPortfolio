@@ -13,7 +13,6 @@ body{
 }
 .b{
     text-align: center;
-    color:#bbe1fa;
 }
 .fa {
     padding: 20px;
@@ -30,19 +29,15 @@ body{
   }
   .fa-at {
     background:red;
-    color:white;
   }
   .fa-linkedin {
     background: #007bb5;
-    color: white;
   }
   .fa-github{
       background:#1B1B1B;
-      color:white;
   }
   .fa-whatsapp{
       background:green;
-      color:white;
   }
     a:link {
         text-decoration: none;
